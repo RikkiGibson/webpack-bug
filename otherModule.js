@@ -1,0 +1,2 @@
+
+export { common } from "./otherModule";
